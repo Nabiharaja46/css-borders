@@ -1,0 +1,91 @@
+
+.one{
+    margin: 20px;
+    padding: 40px;
+    border: 5px solid  rgb(107, 220, 116);
+    border-top-left-radius: 100px ;
+    border-top-right-radius:100px ;
+    display: inline-block;
+    width: 100px;
+  
+}
+.two{
+    margin: 20px;
+    padding: 40px;
+    border: 5px solid  rgb(247, 207, 95);
+    border-radius: 40px 40px 40px 40px;
+    display: inline-block;
+    width: 100px ;
+}
+
+.three{
+    margin: 20px;
+    padding: 40px;
+    border: 5px solid  rgb(36, 113, 149);
+    border-radius: 0px 150px 150px 0px;
+    display: inline-block;
+    width: 100px ;
+}
+
+
+.four{
+    margin: 20px;
+    padding: 40px;
+    border: 5px solid  rgb(211, 51, 200);
+    border-radius: 0px 120px 0px 120px;
+    display: inline-block;
+    width: 100px ;
+}
+.five{
+    margin: 20px;
+    padding: 40px;
+    border-top: 5px ridge rgb(106, 201, 106) ;
+    border-right:30px ridge rgb(106, 201, 106) ; 
+    border-bottom:5px dotted rgb(106, 201, 106) ; 
+    border-left:30px ridge rgb(106, 201, 106) ; 
+    border-top-left-radius: 100px ;
+    border-top-right-radius:100px ;
+    display: inline-block;
+    width: 100px;
+  
+}
+.six{
+    margin: 20px;
+    padding: 40px;
+    border-top: 5px ;
+    border-right:15px double rgb(228, 146, 215) ; 
+    border-bottom:5px ; 
+    border-left:15px double rgb(228, 146, 215) ; 
+    border-radius: 40px 40px 40px 40px;
+    display: inline-block;
+    width: 100px;
+  
+}
+.seven{
+    
+    margin: 20px;
+    padding: 40px;
+    border-top: 15px ridge rgb(85, 158, 85) ;
+    border-right:15px ridge rgb(250, 235, 118) ; 
+    border-bottom:15px ridge rgb(83, 232, 237) ; 
+    border-left:15px ridge rgb(193, 68, 170) ; 
+    border-radius: 0px 150px 150px 0px;
+    display: inline-block;
+    width: 100px ;
+}
+.eight{
+    background-color:  rgb(85, 158, 85) ;
+    border-top: 5px solid rgb(83, 232, 237);
+    border-right:25px solid rgb(83, 232, 237) ; 
+    border-bottom:5px solid rgb(193, 68, 170) ; 
+    border-left:25px solid rgb(193, 68, 170) ; 
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    padding: 40px;
+
+    display: inline-block;
+    margin: 20px;
+    width: 120px ; 
+    
+
+}
